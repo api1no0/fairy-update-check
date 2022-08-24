@@ -1,2 +1,3 @@
-# fairy-update-check
+# Fairy Roblox Executer Update Checker
+
 Fairy Update Checker
